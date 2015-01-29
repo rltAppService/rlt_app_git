@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		42E5426A1A7A149000B75BAB /* rltapp.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = rltapp.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		42C06CEF1A79E5D40070D460 = {
 			isa = PBXGroup;
 			children = (
+				42E5426A1A7A149000B75BAB /* rltapp.plist */,
 			);
 			sourceTree = "<group>";
 		};
